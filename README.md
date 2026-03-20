@@ -275,10 +275,45 @@ Stop logging Change ENABLE_LOGGING="false"
 
 🙏 Credits
 
-Created by: UC YT OFFICIAL
+## 📢 Contact & Updates
 
-Thanks to: Magisk Community, All testers
+**Stay connected for latest updates, support, and new features:**
+
+### 📺 YouTube Channel
+Subscribe for tutorials, updates, and more modules:
+- **Channel:** [UC YT OFFICIAL](https://m.youtube.com/channel/UCiRljUMJMGQNarVHH2PjCYw)
+- **Content:** Magisk modules, Android tips, rooting guides
+
+### 📱 Telegram Group
+Join for:
+- Latest module updates
+- Direct support
+- Bug reports
+- Feature requests
+- Community help
+
+**Telegram:** [Join UC Community](https://t.me/+SStU2a74TioyMWY1)
+
+### 📧 Email
+For business or direct contact:
+- **Email:** [ucytofficial@gmail.com]
 
 ---
 
-That's it! Just edit config.conf file and you're done! 🎉
+## 🙏 Credits
+
+| Role | Name |
+|------|------|
+| **Developer** | UC YT OFFICIAL |
+| **Testing** | AFC Community Members |
+| **Thanks To** | Magisk Team, Android Community |
+
+---
+
+**Made with ❤️ by UC YT OFFICIAL**
+
+*If you find this module helpful, please:*
+- ⭐ Star this repository
+- 📺 Subscribe to YouTube channel
+- 🔔 Join Telegram group
+- 📱 Share with friends
