@@ -292,7 +292,7 @@ Join for:
 - Feature requests
 - Community help
 
-**Telegram:** [Join UC Community](https://t.me/+SStU2a74TioyMWY1)
+**Download & Telegram:** [Join UC Community](https://t.me/+SStU2a74TioyMWY1)
 
 ### 📧 Email
 For business or direct contact:
